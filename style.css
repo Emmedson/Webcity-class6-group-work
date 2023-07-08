@@ -1,0 +1,39 @@
+p{
+    color: black;
+}
+
+div{
+    background-color: gray;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.container{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items:space-around;
+    flex-wrap: nowrap;
+    height: 100vh;
+    flex-flow:right;
+}
+
+
+.container > div{
+    padding: 20px;
+    background-color: hotpink;
+    width: auto;
+    height: 20px;
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+    border-radius: 30px;
+  }
+
+#item1{
+    background-color: chartreuse;
+}
+
+#item3{
+    background-color: darkorange;
+}
