@@ -1,0 +1,76 @@
+
+Alright let's
+
+
+finish this section with a simple programming exercise. Let's declare 2 variables, and set  a to red, and b, set it to blue. Now when we log these on the console, obviously we're going to get red and blue. Right? 
+
+
+
+
+Now what I want you to do, is to write some code here to swap the value of these two variables. So when we log these on the console, instead of
+getting red and blue, we're going to get blue and red. So pause
+
+
+
+
+the video, spend a couple of minutes on this exercise, when you are done come
+
+
+back and continue watching.
+
+
+Alright to swap the value of two variables we
+
+
+need a third variable. So we're going to declare another variable
+
+
+
+let's call it c, we're going to use that as a backup.
+
+
+So whatever you're storing in a, we're going to put that in
+
+
+
+another variable that is c, then we're going to copy b to a
+
+
+and finally what we have in c, which was the value of a before
+
+
+we're going to copy that to b. Let me show you.
+
+
+So we declare c, and set it to a.
+
+
+So what we have in a which is red will be copied to c.
+
+
+Now we want to overwrite a with b. So we set
+
+
+a to be. The value of b is copied to a, now
+
+
+both these variables at this point are blue. Finally
+
+
+we're going to copy what we have with c which is the
+
+
+original value of a, we're going to copy that to b. So we set b
+
+
+to c, now, when we save the changes, instead of
+
+
+red and blue we're going to see blue and red. So this proves
+
+
+that we have swapped the value of these two variables. Now if you
+
+
+
+
