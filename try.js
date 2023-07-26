@@ -26,5 +26,4 @@
     if (password === "qwerty" && user === "Emmanuel")   {
         console.log("Yes")
     }
-  
 
