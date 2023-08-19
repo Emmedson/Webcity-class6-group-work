@@ -1,9 +1,8 @@
 .menu{
     display: flex;
-    float:right ;
+    float: right;
     flex-direction: row;
-
-};
+}
 
 #join{
 padding: 10px;
@@ -11,6 +10,7 @@ background-color: blue;
 }
 
 .menu > div > a{
+    text-decoration: none;
     padding: 10px, 10px,10px,10px;
 }
 /* body{
