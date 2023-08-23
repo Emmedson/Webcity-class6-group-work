@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    font-family: "Sofia", sans-serif;
+    background-image: url("image/unsplash.jpg.jpg");
+    background-position: center;
+    margin: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+h1{
+    text-align: center;
+    color: black;
+    height: 50px;
+    max-width: 30%;
+    border-radius: 15px;
+    background-color: rgb(235, 142, 20);
+    text-decoration-line: underline;
+    border: 5px rgb(49, 97, 228) double;
+    margin: 100px 0px 0px 30px;
+}
+
+.firstdiv h3{
+    text-align: left;
+    color:  black;
+    height: 450px;
+    max-width: 35%;
+    border-radius: 15px;
+    background-color:rgb(138, 120, 98);
+    border: 5px rgb(49, 228, 183) double;
+    margin: 1px 0px 0px 10px;
+}
+
