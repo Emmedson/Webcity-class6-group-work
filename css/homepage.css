@@ -24,10 +24,10 @@
         padding: 18px;
         text-decoration: none;
         font-weight: bolder;
-        transition: .8s;
+        transition: .6s;
         background-color: rgba(0, 0, 0, 0.623);
         border-radius: 4px;
-        font-size: 1.7rem;
+        font-size: 1.1rem;
     }
     /* .navbar a:hover{
         color:;
@@ -37,7 +37,7 @@
         color:  green;
     }
 
-    .Jtc{
+    #Jtc{
         color: gold;
     }
     .containerfont{
