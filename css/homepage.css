@@ -3,7 +3,7 @@ margin: 0;
 padding:0;
 }
 .main{
-    background-image: url(/image/auto\ fix\ image.jpg);
+    background-image: url(/image/autofiximage.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
