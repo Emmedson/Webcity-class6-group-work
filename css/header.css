@@ -36,9 +36,3 @@
        background-color: rgba(0, 0, 0, 0.623);
        border-radius: 4px;
    }
-   .navbar a:hover{
-       color: gold;
-   }
-   .navbar a:active{
-    color: gold;
-   }
